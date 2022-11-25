@@ -1,0 +1,18 @@
+{
+  "crud": [
+    {
+      "firstName": "said",
+      "lastName": "lansфкщм",
+      "phone": "1311312312",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFU7U2h0umyF0P6E_yhTX45sGgPEQAbGaJ4g&usqp=CAU",
+      "id": 1
+    },
+    {
+      "firstName": "хома",
+      "lastName": "вахид",
+      "phone": "32434",
+      "image": "https://www.akamai.com/site/im-demo/perceptual-standard.jpg?imbypass=true",
+      "id": 2
+    }
+  ]
+}
